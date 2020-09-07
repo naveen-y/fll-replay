@@ -1,2 +1,2 @@
 # girls-replay
-This is the repo for G.I.R.L.S replay code to be version controlled.
+This is repo for storing the Re-Play mission code and innovation project files.  
